@@ -31,8 +31,8 @@ Always exploring new technologies and improving at **Laravel/PHP, Prisma, and cl
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Shopify](https://img.shields.io/badge/shopify-%23921011.svg?style=for-the-badge&logo=shopify&logoColor=white) 
 ![Shopify Apps](https://img.shields.io/badge/Shopify%20Apps-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
