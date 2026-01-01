@@ -40,7 +40,7 @@ Always exploring new technologies and improving at **Laravel/PHP, Prisma, and cl
 
 # 🚀 What I Work On:
 🔹 **Shopify App Development** → Wishlist apps, Product Builders, Diamond Search tools  
-🔹 **WooCommerce Integrations** → Live API data sync (Stuller, GemFind, etc.)  
+🔹 **WooCommerce Integrations** → Live API data sync 
 🔹 **Full-Stack Dashboards** → Analytics & monitoring apps (React + Node.js)  
 🔹 **Secure Backends** → Authentication (JWT, bcrypt), AES-256 encryption  
 🔹 **Real-Time Apps** → WebSocket-based trading & live updates  
